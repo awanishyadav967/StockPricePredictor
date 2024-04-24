@@ -8,7 +8,8 @@ StockPricePredictor is a tool that helps you predict the closing price of a shar
 - Easy to use interface.
 
 ## Screenshots
-[Include screenshots here]
+![StockPricePredictor Screenshot](Stock.png)
+
 
 ## Demo
 You can try out the StockPricePredictor app on Streamlit. [Click here for demo](https://stockpricepredictor1234.streamlit.app/)
